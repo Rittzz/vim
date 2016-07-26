@@ -9,3 +9,5 @@ set softtabstop=4
 set expandtab
 
 set runtimepath^=~/.vim/bundle/ctrlp.vim
+
+set number

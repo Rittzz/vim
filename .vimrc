@@ -12,3 +12,4 @@ set runtimepath^=~/.vim/bundle/ctrlp.vim
 
 set number
 
+set backspace=indent,eol,start
